@@ -110,7 +110,7 @@ namespace first_project
             Console.WriteLine($" {result}");
 
             
-
+            //9
 
             Console.WriteLine("Enter the string ");
 
