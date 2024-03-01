@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\school1\school1\bin\Debug\school1.exe.config
+C:\Users\hp\source\repos\school1\school1\bin\Debug\school1.exe
+C:\Users\hp\source\repos\school1\school1\bin\Debug\school1.pdb
+C:\Users\hp\source\repos\school1\school1\obj\Debug\school1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\school1\school1\obj\Debug\school1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\school1\school1\obj\Debug\school1.exe
+C:\Users\hp\source\repos\school1\school1\obj\Debug\school1.pdb
