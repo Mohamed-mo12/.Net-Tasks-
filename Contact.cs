@@ -47,10 +47,17 @@ namespace Contact_manager
         }
 
 
-        public void number_users() {
+         public void number_users() {
 
-            Console.WriteLine(User.Count());
-        
+            if (User.Count <= 0)
+            {
+                Console.WriteLine(" there is no user  ");
+            }
+            else
+            {
+                Console.WriteLine(User.Count());
+            }
+
         }
 
         
