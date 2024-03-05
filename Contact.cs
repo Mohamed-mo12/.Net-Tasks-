@@ -53,21 +53,20 @@ namespace Contact_manager
         
         }
 
+        
         public string search_user(string name) {
 
-            foreach (var item in User)
+            for (int i = 0; i < User.Count; i++)
             {
-                if (item == name)
+                if (User[i] == name)
                 {
-                    Console.WriteLine(item);
-                }
-                else
-                {
-                    Console.WriteLine(" not exist ");
+                    return $"{name} is exist ";
                 }
             }
 
-            return null; 
+            return "not exist is the list"; 
+        
+        }
         
         }
 
