@@ -13,10 +13,10 @@ namespace Contact_manager
         public List<string> User { get { return users; } set { users = value; } }
 
 
-        public List<string> add_user(string add) {
+       public void add_user(string add) {
 
             User.Add(add);
-            return User; 
+            Console.WriteLine($" yor are succcssefult add the user {add}"); 
         }
 
         public List<string> delete_user(string delete)
